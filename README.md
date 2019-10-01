@@ -40,12 +40,12 @@ https://www.microsoft.com/en-us/download/details.aspx?id=53587 (Only required fo
 ``` bash
 git clone https://github.com/instabotai/instabotai.git or Click Download Above
 cd instabotai
-pip install -U pip
-pip install -r requirements.txt
-python run.py
+pip3 install -U pip
+pip3 install -r requirements.txt
+python3 run.py
 
 If you only want to use CLI run:
-python cli.py -u username -p password
+python3 cli.py -u username -p password
 ```
 ### Installation with docker
 
