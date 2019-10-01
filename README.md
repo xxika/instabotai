@@ -72,6 +72,11 @@ Open http://127.0.0.1:8000/ in your browser
 
 Works on all browsers without extensions!
 
+**Make the bot work remote from GUI:**
+To make the bot work remote with GUI, you need to open port 8000 on your router.
+Then when you are running the bot with python run.py you will
+be able to access the GUI from yourip:8000
+
 To install tensorflow on your system without pip.
 ### Arch Linux:
 Pacman -S tensorflow
