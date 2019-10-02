@@ -78,6 +78,7 @@ Then when you are running the bot with python run.py you will
 be able to access the GUI from yourip:8000
 
 To install tensorflow on your system without pip.
+
 ### Arch Linux:
 Pacman -S tensorflow
 
